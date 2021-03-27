@@ -8,8 +8,3 @@ Espacio donde se encuentran varios proyectos que visualizan las diversas opcione
 | Maven|2.0|
 | Spring|2.4|
 
-
-#### Proyectos JDBC - Java
-* [Proyecto Swing Jdbc - Sqlite]
-* [Proyecto Swing Jdbc - Maven Sqlite]
----------
