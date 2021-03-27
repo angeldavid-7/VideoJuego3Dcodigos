@@ -1,0 +1,7 @@
+Espacio donde se encuentran varios proyectos que visualizan las diversas opciones de conexión a Bases de datos vía JDBC.
+
+
+| Requerimientos | Versión |
+|------|-----|
+| JDK |1.8 o superior|
+| Base de datos |SqLite|
