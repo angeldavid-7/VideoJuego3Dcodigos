@@ -5,3 +5,6 @@ Espacio donde se encuentran varios proyectos que visualizan las diversas opcione
 |------|-----|
 | JDK |1.8 o superior|
 | Base de datos |SqLite|
+| Maven|2.0|
+| Spring|2.4|
+
