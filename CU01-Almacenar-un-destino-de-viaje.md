@@ -19,11 +19,11 @@
 
 | Autor | Sistema|
 | -----| ---- |
-| Registrar los datos entrada |  |
-| Hacer click sobre botón "Guardar"| 1. Validar que los datos no estén vacíos  |
-| | 2. Validar que las fechas sean mayores a hoy|
-| | 3. Persistir la información, y devolver mensaje de éxito |
-| Mostrar en pantalla el mensaje de éxito |  |
+| 1. Registrar los datos entrada |  |
+| 2. Hacer click sobre botón "Guardar"| 3. Validar que los datos no estén vacíos  |
+| | 4. Validar que las fechas sean mayores a hoy|
+| | 5. Persistir la información, y devolver mensaje de éxito |
+| 6. Mostrar en pantalla el mensaje de éxito |  |
 
 
 
