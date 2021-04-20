@@ -13,6 +13,12 @@
 | Mockup| ![Demo (1)](https://user-images.githubusercontent.com/54365595/115477272-32770b80-a209-11eb-8186-ea46ac5a2655.png)
  |
 
+## Flujo
+
+| Autor | Sistema|
+| -----| ---- |
+| Autor | Vinni - 20/04/2021 |
+
 
 
 
