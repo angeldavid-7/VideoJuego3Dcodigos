@@ -3,6 +3,7 @@
 
 | Campo| Información|
 | -----| ---- |
+| Autor | Vinni - 20/04/2021 |
 | Nombre | Almacenar un destino de viaje. |
 | Descripción | alkjdflas lksadjflsd flskd slkdjflksd flksdjflksdj f. |
 | Actor | usuario |
