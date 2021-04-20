@@ -1,7 +1,7 @@
 ### Almacenar un destino de viaje
 ## Identificación
 
-| Código| CU01 |
+| Campo| Información|
 | -----| ---- |
 | Nombre | Almacenar un destino de viaje. |
 | Descripción | Almacenar un destino de viaje. |
