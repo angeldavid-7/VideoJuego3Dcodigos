@@ -6,6 +6,8 @@
 | Autor | Vinni - 20/04/2021 |
 | Nombre | Almacenar un destino de viaje. |
 | Descripción | alkjdflas lksadjflsd flskd slkdjflksd flksdjflksdj f. |
+| Datos entrada| nombre de país, fecha inicio y fecha de fin |
+| Datos salida| N/A |
 | Actor | usuario |
 | Requerimiento  base  | RQ01|
 | Precondiciones  | ¿Qué pasa antes de la ejecución del caso de uso?|
@@ -17,7 +19,11 @@
 
 | Autor | Sistema|
 | -----| ---- |
-| Autor | Vinni - 20/04/2021 |
+| Registrar los datos entrada |  |
+| Hacer click sobre botón "Guardar"| 1. Validar que los datos no estén vacíos  |
+| | 2. Validar que las fechas sean mayores a hoy|
+| | 3. Persistir la información, y devolver mensaje de éxito |
+| Mostrar en pantalla el mensaje de éxito |  |
 
 
 
