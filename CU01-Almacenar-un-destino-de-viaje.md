@@ -9,6 +9,7 @@
 | Requerimiento  base  | RQ01|
 | Precondiciones  | ¿Qué pasa antes de la ejecución del caso de uso?|
 | Postcondiciones | ¿Qué pasa después de la ejecución del caso de uso?|
+| Mockup| |
 
 
 
