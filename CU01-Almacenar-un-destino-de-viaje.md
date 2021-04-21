@@ -5,7 +5,7 @@
 | -----| ---- |
 | Autor | Vinni - 20/04/2021 |
 | Nombre | Almacenar un destino de viaje. |
-| Descripción | Persistir la información de país, fecha de inicio y fecha de fin de viaje. El país se selecciona de una lista de 192 opciones. Las fechas deben ser mayores a hoy.  |
+| Descripción | Persistir la información de país, fecha de inicio y fecha de fin de viaje. El país se selecciona de una lista de 192 opciones. Las fechas deben ser mayores a hoy. Al guardar debe mostrar el mensaje "Se creo el nuevo viaje"  |
 | Datos entrada| nombre de país, fecha inicio y fecha de fin |
 | Datos salida| N/A |
 | Actor | usuario |
