@@ -29,7 +29,8 @@
 | Paso | Solución|
 | -----| ---- |
 | 3. Los datos no son vacíos | 3.1. No almaceno  |
-|  | 3.2. Mensaje en pantalla "Datos vacios"|
+|  | 3.2. Mensaje en pantalla "Datos vacíos"|
+|  | 3.3. Volver a la pantalla de almacenar|
 
 
 
