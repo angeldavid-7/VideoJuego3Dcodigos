@@ -24,6 +24,11 @@
 | | 5. Persistir la información, y devolver mensaje de éxito |
 | | 6. Mostrar en pantalla el mensaje de éxito |
 
+## Excepciones
+
+| Caso | Solución|
+| -----| ---- |
+| 1. Registrar los datos entrada |  |
 
 
 
