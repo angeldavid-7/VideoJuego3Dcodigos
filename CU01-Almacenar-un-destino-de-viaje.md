@@ -26,9 +26,10 @@
 
 ## Excepciones
 
-| Caso | Solución|
+| Paso | Solución|
 | -----| ---- |
-| 1. Registrar los datos entrada |  |
+| 3. Los datos no son vacíos | 3.1. No almaceno  |
+|  | 3.2. Mensaje en pantalla "Datos vacios"|
 
 
 
